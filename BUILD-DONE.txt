@@ -1,0 +1,4 @@
+Pytest test count: 28 passed
+Local commit hash: 900a8af
+
+FailureDB is a local Python CLI and analysis library for validating typed failure records, deterministically clustering them across the eight AgentGym taxonomy categories, filtering records, and producing engineering recommendations with exact evidence citations. It includes nine clearly labelled synthetic fictional fixtures, a low-confidence REVIEW path for ambiguous records, deterministic Markdown and HTML reports, and a full pytest suite. The clustering is rule-based and all documentation and output state that the fixtures are not real production incident reports.
