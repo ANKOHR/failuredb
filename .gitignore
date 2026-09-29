@@ -1,0 +1,15 @@
+# Local launcher and prompt residue
+fd-prompt.txt
+fd-launch.py
+fd-codex.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local FailureDB data
+failuredb.jsonl
